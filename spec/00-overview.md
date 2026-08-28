@@ -44,18 +44,18 @@ A typical connection follows this flow:
 
 ```text
 Client                                Server
-  |                                     |
-  |---- WebSocket over TLS ------------>|
+  |                                      |
+  |---- WebSocket over TLS ------------> |
   |---- HELLO -------------------------->|
-  |<--- HELLO_ACK ----------------------|
+  |<--- HELLO_ACK ---------------------- |
   |---- AUTH --------------------------->|
-  |<--- READY --------------------------|
-  |                                     |
+  |<--- READY -------------------------- |
+  |                                      |
   |---- COMMAND ------------------------>|
-  |<--- RESULT -------------------------|
-  |<--- EVENT --------------------------|
+  |<--- RESULT ------------------------- |
+  |<--- EVENT -------------------------- |
   |---- ACK ---------------------------->|
-  |                                     |
+  |                                      |
 ```
 
 A reconnecting client may use `RESUME` after authentication to request events after its last known event sequence.
