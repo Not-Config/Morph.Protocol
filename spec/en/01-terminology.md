@@ -1,5 +1,7 @@
 # Morph Protocol v0.1 — Terminology
 
+> This document is an official English translation of the canonical Russian specification. If translations differ, the version under `spec/ru/` is authoritative.
+
 This document defines common terms used by the Morph Protocol specification.
 
 ## Client
