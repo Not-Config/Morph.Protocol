@@ -8,9 +8,9 @@ Morph Protocol defines data, state and behavior, but does not define presentatio
 
 ## Specification
 
-The canonical specification is maintained in English under [`spec/en/`](spec/en/).
+The canonical specification is maintained in Russian under [`spec/ru/`](spec/ru/).
 
-A Russian translation is maintained under [`spec/ru/`](spec/ru/). If a translation differs from the English specification, the English version is authoritative.
+An official English translation is maintained under [`spec/en/`](spec/en/). If the English translation differs from the Russian specification, the Russian version is authoritative.
 
 Current experimental line: **Morph Protocol v0.1**.
 
