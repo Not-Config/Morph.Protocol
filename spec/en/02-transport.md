@@ -1,5 +1,7 @@
 # Morph Protocol v0.1 — Transport
 
+> This document is an official English translation of the canonical Russian specification. If translations differ, the version under `spec/ru/` is authoritative.
+
 Morph Protocol v0.1 uses WebSocket as its realtime transport.
 
 ## Transport requirements
