@@ -1,5 +1,7 @@
 # Morph Protocol v0.1 — Overview
 
+> This document is an official English translation of the canonical Russian specification. If translations differ, the version under `spec/ru/` is authoritative.
+
 Morph Protocol is the application protocol used by Morph clients and servers to exchange commands, results, events, synchronization state, and connection metadata.
 
 The protocol defines data, state transitions, and behavior. It does not define how clients render or present that data.
