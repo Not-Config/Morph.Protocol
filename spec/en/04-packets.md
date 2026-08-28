@@ -1,5 +1,7 @@
 # Morph Protocol v0.1 — Core Packets
 
+> This document is an official English translation of the canonical Russian specification. If translations differ, the version under `spec/ru/` is authoritative.
+
 Morph Protocol v0.1 defines a small set of top-level packet operations. Application-specific actions are carried inside `COMMAND` and `EVENT` packets rather than being assigned new top-level opcodes.
 
 ## Core operations
