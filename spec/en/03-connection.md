@@ -1,5 +1,7 @@
 # Morph Protocol v0.1 — Connection State
 
+> This document is an official English translation of the canonical Russian specification. If translations differ, the version under `spec/ru/` is authoritative.
+
 A Morph Protocol connection is governed by an explicit state machine.
 
 ## States
