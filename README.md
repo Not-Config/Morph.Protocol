@@ -21,5 +21,7 @@ Start with:
 - [Transport](spec/en/02-transport.md)
 - [Connection state](spec/en/03-connection.md)
 - [Core packets](spec/en/04-packets.md)
+- [Application API](spec/en/05-application-api.md)
+- [Event recovery](spec/en/06-recovery.md)
 
 All `0.x` versions are experimental and may contain breaking changes. Version `1.0` will represent the first stable protocol specification.
